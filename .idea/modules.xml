@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PP_Hibernate-master.iml" filepath="$PROJECT_DIR$/.idea/PP_Hibernate-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate-master/TaskJDBC.iml" filepath="$PROJECT_DIR$/PP_1_1_3-4_JDBC_Hibernate-master/TaskJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PP_JDBC_Hibernate-master/TaskJDBC.iml" filepath="$PROJECT_DIR$/PP_JDBC_Hibernate-master/TaskJDBC.iml" />
     </modules>
   </component>
 </project>
