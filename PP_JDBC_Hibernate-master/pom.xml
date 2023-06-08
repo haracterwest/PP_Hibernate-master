@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>6.2.3.Final</version>
+            <version>6.2.4.Final</version>
             <type>pom</type>
         </dependency>
 
@@ -67,7 +67,24 @@
             <version>42.6.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.28</version>
+            <scope>provided</scope>
+        </dependency>
 
-     </dependencies>
+        <dependency>
+            <groupId>org.umlg</groupId>
+            <artifactId>sqlg-postgres-dialect</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+
+
+
+
+    </dependencies>
+
+
 
 </project>
