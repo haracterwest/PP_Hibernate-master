@@ -12,8 +12,8 @@
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
-    <connection id="a04d395c-3415-48ca-853b-76c18a34bea9">
-      <console name="Connection" type="STANDARD" schema="mysql" session="Main" />
+    <connection id="3df87e8e-7188-412a-9d3a-a54063631188">
+      <console name="db" type="STANDARD" schema="postgres" session="Main" />
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseEditorStateManager">
@@ -22,31 +22,45 @@
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
+  <component name="DBNavigator.Project.ExecutionManager">
+    <retain-sticky-names value="false" />
+  </component>
+  <component name="DBNavigator.Project.MethodExecutionManager">
+    <method-browser />
+    <execution-history>
+      <group-entries value="true" />
+      <execution-inputs />
+    </execution-history>
+    <argument-values-cache />
+  </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
     <filters />
   </component>
+  <component name="DBNavigator.Project.ParserDiagnosticsManager">
+    <diagnostics-history />
+  </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="a04d395c-3415-48ca-853b-76c18a34bea9" active="true" signed="true">
+      <connection id="3df87e8e-7188-412a-9d3a-a54063631188" active="true" signed="true">
         <database>
-          <name value="Connection" />
+          <name value="db" />
           <description value="" />
-          <database-type value="MYSQL" />
+          <database-type value="POSTGRES" />
           <config-type value="BASIC" />
-          <database-version value="9999.0" />
+          <database-version value="15.1" />
           <driver-source value="BUNDLED" />
           <driver-library value="" />
           <driver value="" />
           <url-type value="DATABASE" />
           <host value="localhost" />
-          <port value="3306" />
-          <database value="mysql" />
+          <port value="5432" />
+          <database value="postgres" />
           <tns-folder value="" />
           <tns-profile value="" />
           <type value="USER_PASSWORD" />
-          <user value="paparazzi" />
-          <deprecated-pwd value="cm9vdA==" />
+          <user value="postgres" />
+          <deprecated-pwd value="cG9zdGdyZXM=" />
         </database>
         <properties>
           <auto-commit value="false" />
